@@ -1,0 +1,1 @@
+Egy egyszerű footer html váza és css kódja. Fontos, hogy a padding-bottom magasságának meg kell egyezni a footer magasságával.
